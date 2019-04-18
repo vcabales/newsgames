@@ -2,7 +2,7 @@
 ## About
 A list of curated newsgames and games for social change, along with references and guides for building these types of games. Feel free to contribute to this repo.
 
-## Games Built for News
+## Games for News
 - **[The Uber Game](https://ig.ft.com/uber-game/)**: Put yourself in the shoes of a full-time Uber driver trying to meet end's meet. By the Financial Times. 
 - **[The Voter Suppression Train](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html?smid=pl-share)**: Experience voting as a white programmer in California, a Latina nurse in Texas, or a black salesman in Wisconsin. By NYT Interactive.
 - **[Heartsaver](https://projects.propublica.org/graphics/heartsaver)**: Try to save the lives of people experiencing heart attacks in New York. By Propublica.
