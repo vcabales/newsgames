@@ -4,6 +4,7 @@ A list of curated newsgames and games for social change, along with references a
 
 ## Games for News
 - **[The Uber Game](https://ig.ft.com/uber-game/)**: Put yourself in the shoes of a full-time Uber driver trying to meet end's meet. By the Financial Times. 
+- **[Kleptocrat](https://itunes.apple.com/us/app/kleptocrat/id1181465728?mt=8)**: In Kleptocrat, you play as a corrupt politician making dirty money under the table and trying to enjoy a life of luxury. See if you can hide your bribes and buy a mansion without investigators nailing you! Built by Jim Mintz, a private investigator, and Irwin Chen, a professor at the New School.
 - **[The Voter Suppression Train](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html?smid=pl-share)**: Experience voting as a white programmer in California, a Latina nurse in Texas, or a black salesman in Wisconsin. By NYT Interactive.
 - **[Heartsaver](https://projects.propublica.org/graphics/heartsaver)**: Try to save the lives of people experiencing heart attacks in New York. By Propublica.
 - **[Gauging Your Distraction](https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/19/technology/20090719-driving-game.html)**: New studies show that drivers overestimate their ability to multitask behind the wheel. This game measures how your reaction time is affected by external distractions. Regardless of your results, experts say, you should not attempt to text when driving. By NYT Interactive. 
